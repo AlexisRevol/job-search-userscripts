@@ -1,22 +1,13 @@
-# 🚀 Ma Boîte à Outils pour la Recherche d'Emploi
+# Mes outils pour la Recherche d'Emploi
 
-Une collection de userscripts open-source pour surcharger votre recherche d'emploi sur LinkedIn, Indeed, et plus encore. Gagnez du temps, évitez les clics inutiles et concentrez-vous sur les bonnes opportunités.
+Une collection de userscripts open-source pour faciliter la recherche d'emploi sur LinkedIn, Indeed, et plus encore. Gagnez du temps, évitez les clics inutiles et se concentrer sur les bonnes opportunités.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  <img src="https://img.shields.io/github/last-commit/AlexisRevol/job-search-userscripts" alt="Last Commit">
-  <img src="https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="Made with JavaScript">
-</p>
+[![CodeFactor](https://www.codefactor.io/repository/github/alexisrevol/job-search-userscripts/badge)](https://www.codefactor.io/repository/github/alexisrevol/job-search-userscripts)
+[![Langage](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
----
 
-## 🤔 Pourquoi ce projet ?
 
-Lors de ma recherche d'emploi, je me suis retrouvé à effectuer les mêmes tâches répétitives des dizaines de fois par jour : vérifier la note d'une entreprise, analyser les prérequis d'une offre, filtrer les annonces non pertinentes... J'ai donc décidé d'automatiser ces processus pour me concentrer sur l'essentiel. 
-
-Ce projet est le résultat de cette démarche : une suite d'outils que j'utilise personnellement tous les jours.
-
-## ✨ Fonctionnalités Principales
+##  Fonctionnalités Principales
 
 Chaque script peut être installé indépendamment.
 
@@ -65,11 +56,6 @@ Pour utiliser ces scripts, vous avez besoin d'une extension de navigateur pour g
     *   ou [Tampermonkey](https://www.tampermonkey.net/)
 2.  **Installez les scripts :** Cliquez sur les liens d'installation ci-dessus pour chaque script que vous souhaitez utiliser. L'extension vous demandera de confirmer l'installation.
 
-## 💻 Stack Technique
-*   **Langage Principal :** JavaScript (ES6+)
-*   **API Userscript :** `GM.xmlHttpRequest` pour les appels cross-domain, et autres API standards de Violentmonkey/Tampermonkey.
-*   **Analyse de Texte :** Expressions Régulières (RegExp) pour extraire les informations pertinentes du DOM.
-*   **Manipulation du DOM :** Injection dynamique de CSS et d'éléments HTML pour créer des interfaces utilisateur non intrusives.
 
 ## 🤝 Contribution
 
