@@ -49,9 +49,8 @@ Ajoute des filtres manquants directement dans l'interface de LinkedIn pour masqu
 
 **Usage :** Les filtres apparaissent automatiquement dans le panneau "Tous les filtres" de LinkedIn Jobs.
 
-*<p align="center">
-  <img src="URL_DE_VOTRE_GIF_POUR_LES_FILTRES_LINKEDIN_ICI.gif" alt="Démo du LinkedIn Filter Enhancer" width="750">
-</p>*
+![Démo de LinkedIn Filter](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_linkedin.gif)
+
 
 [▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/linkedin-job-filters/linkedin-job-filters.user.js)
 
