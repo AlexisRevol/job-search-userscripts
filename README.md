@@ -37,9 +37,8 @@ Eviter de lire des offres pour découvrir à la fin qu'elles demandent 10 ans d'
 
 **Usage :** Sur une page d'offre, appuyez sur `Alt + C`.
 
-*<p align="center">
-  <img src="URL_DE_VOTRE_GIF_POUR_L_ANALYSEUR_ICI.gif" alt="Démo du Job Offer Analyzer" width="750">
-</p>*
+![Démo de Offer Analyzer](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_experience.gif)
+
 
 [▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/job-offer-summarizer/job-offer-summarizer.user.js)
 
