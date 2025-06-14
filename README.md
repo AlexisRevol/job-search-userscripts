@@ -25,10 +25,8 @@ Affiche instantanément la note Glassdoor d'une entreprise sans quitter la page 
 
 **Usage :** Survolez le nom d'une entreprise et appuyez sur `Alt + G`.
 
-<p>
-  <img src="
-![Démo de Job Tracker](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_glassdoor.gif)" alt="Démo du Glassdoor Rating Fetcher" width="750">
-</p>
+![Démo de Job Tracker](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_glassdoor.gif)
+
 
 [▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/glassdoor-rating-fetcher/glassdoor-rating-fetcher.user.js)
 
