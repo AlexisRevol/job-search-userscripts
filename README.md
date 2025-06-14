@@ -1,4 +1,4 @@
-# Mes outils pour la Recherche d'Emploi
+# Outils pour la Recherche d'Emploi
 
 Une collection de userscripts open-source pour faciliter la recherche d'emploi sur LinkedIn, Indeed, et plus encore. Gagnez du temps, évitez les clics inutiles et se concentrer sur les bonnes opportunités.
 
