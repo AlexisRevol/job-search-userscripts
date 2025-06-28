@@ -1,65 +1,56 @@
-# Outils pour la Recherche d'Emploi
+# Job Search Tools
 
-Une collection de userscripts open-source pour faciliter la recherche d'emploi sur LinkedIn, Indeed, et plus encore. Gagnez du temps, évitez les clics inutiles et se concentrer sur les bonnes opportunités.
+A collection of open-source userscripts to make job search easier on LinkedIn, Indeed, and more. 
 
 [![CodeFactor](https://www.codefactor.io/repository/github/alexisrevol/job-search-userscripts/badge)](https://www.codefactor.io/repository/github/alexisrevol/job-search-userscripts)
 [![Langage](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
+> Each script can be installed independently.
 
-##  Fonctionnalités Principales
+### 1. ⭐️ Company Rating Fetcher
+> Instantly displays a company's Glassdoor rating without leaving the job posting page.
 
-Chaque script peut être installé indépendamment.
-
-### 1. ⭐️ Glassdoor Rating Fetcher
-Affiche instantanément la note Glassdoor d'une entreprise sans quitter la page de l'offre d'emploi.
-
-**Usage :** Survolez le nom d'une entreprise et appuyez sur `Alt + G`.
+**Usage :** Hover over a company name and press `Alt + G`.
 
 ![Démo de Job Tracker](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_glassdoor.gif)
 
 
-[▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/glassdoor-rating-fetcher/glassdoor-rating-fetcher.user.js)
+[▶️ **Install this script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/glassdoor-rating-fetcher/glassdoor-rating-fetcher.user.js)
 
 ---
 
-### 2. 📊 Job Experience Analyzer
-Eviter de lire des offres pour découvrir à la fin qu'elles demandent 10 ans d'expérience ? Ce script alerte visuellement si une offre exige plus de 3 ans d'expérience.
+### 2. 📊 Job Experience Detector
+> This script provides a visual alert if an offer requires more than 3 years' experience.
 
-**Usage :** Sur une page d'offre, appuyez sur `Alt + C`.
+**Usage :** On a job offer page, press `Alt + C`.
 
 ![Démo de Offer Analyzer](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_experience.gif)
 
 
-[▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/job-offer-summarizer/job-offer-summarizer.user.js)
+[▶️ **Install this script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/job-offer-summarizer/job-offer-summarizer.user.js)
 
 ---
 
-### 3. 🔍 LinkedIn Filter Enhancer
-Ajoute des filtres manquants directement dans l'interface de LinkedIn pour masquer les offres déjà vues, sponsorisées ou celles auxquelles vous avez déjà postulé.
+### 3. 🔍 LinkedIn Filter Viewed Jobs
+> Add filters in the LinkedIn interface to hide previously viewed, sponsored or applied for jobs.
 
-**Usage :** Les filtres apparaissent automatiquement dans le panneau "Tous les filtres" de LinkedIn Jobs.
+**Usage :** Filters automatically appear in the “All filters” panel of LinkedIn Jobs.
 
 ![Démo de LinkedIn Filter](https://raw.githubusercontent.com/AlexisRevol/job-search-userscripts/main/.github/assets/demo_linkedin.gif)
 
 
-[▶️ **Installer ce script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/linkedin-job-filters/linkedin-job-filters.user.js)
+[▶️ **Install this script**](https://github.com/AlexisRevol/job-search-userscripts/raw/main/linkedin-job-filters/linkedin-job-filters.user.js)
 
 ---
 
-## 🛠️ Installation Générale
+## 🛠️  General installation
 
-Pour utiliser ces scripts, vous avez besoin d'une extension de navigateur pour gérer les userscripts.
+To use these scripts, you need a browser extension to manage userscripts.
 
-1.  **Installez un gestionnaire de scripts :**
-    *   [Violentmonkey](https://violentmonkey.github.io/) (recommandé, open-source)
-    *   ou [Tampermonkey](https://www.tampermonkey.net/)
-2.  **Installez les scripts :** Cliquez sur les liens d'installation ci-dessus pour chaque script que vous souhaitez utiliser. L'extension vous demandera de confirmer l'installation.
+1.  **Install a script manager :**
+    *   [Violentmonkey](https://violentmonkey.github.io/) (recommended, open-source)
+    *   or [Tampermonkey](https://www.tampermonkey.net/)
+2.  **Install scripts :** Click on the installation links above for each script you wish to use.
 
-
-## 🤝 Contribution
-
-Les contributions, les suggestions et les rapports de bugs sont les bienvenus ! N'hésitez pas à :
-*   Ouvrir une **[Issue](https://github.com/AlexisRevol/job-search-userscripts/issues)** pour signaler un problème ou proposer une idée.
-*   Créer une **[Pull Request](https://github.com/AlexisRevol/job-search-userscripts/pulls)** pour proposer une modification.
 
