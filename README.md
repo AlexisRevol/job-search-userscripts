@@ -23,7 +23,7 @@ Affiche instantanément la note Glassdoor d'une entreprise sans quitter la page 
 
 ---
 
-### 2. 📊 Job Offer Analyzer
+### 2. 📊 Job Experience Analyzer
 Eviter de lire des offres pour découvrir à la fin qu'elles demandent 10 ans d'expérience ? Ce script alerte visuellement si une offre exige plus de 3 ans d'expérience.
 
 **Usage :** Sur une page d'offre, appuyez sur `Alt + C`.
